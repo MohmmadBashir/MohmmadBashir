@@ -23,7 +23,7 @@ fi
 }
 option
 check1(){
-if wget --spider https://raw.githubusercontent.com/noob-hackers/patchupdateznh/main/ighack.v.1 2>/dev/null; then
+if wget --spider https://raw.githubusercontent.com/Mohmmad-Bashir/patchupdateznh/main/ighack.v.1 2>/dev/null; then
 cd $HOME/ighack/core
 echo "igg" > patch.txt
 else
@@ -244,7 +244,7 @@ echo -e "
 "
 center "^CHECKING DONE^"
 echo -e "\e[93m                     Subscribe On Youtube\e[92m"
-center "<NOOB HACLERS>"
+center "<Mohmmad Bashir>"
 sleep 20.0
 more
 }
@@ -306,7 +306,7 @@ echo -e '\e[91m
                  ────▌──▐────
 '
 echo -e "\e[93m                  CALL ME \e[92mNITRO" | pv -qL 10
-echo -e "\e[93m             IAM FROM \e[92mNOOB HACKERS" | pv -qL 10
+echo -e "\e[93m             IAM FROM \e[92mMohmmad Bashir" | pv -qL 10
 echo -e "\e[93m       IM A \e[92mGEEK\e[93m WITH LOTS OF EXCITEMENT" | pv -qL 10
 echo -e "\e[93m             HOPE YOU LIKE THIS SCRIPT" | pv -qL 10
 echo -e "\e[93m         OOPS... I TALK A LOT SRY FOR THAT " | pv -qL 10
